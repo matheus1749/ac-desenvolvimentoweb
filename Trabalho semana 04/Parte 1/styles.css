@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap');
+
+
+#título_principal {
+    color : red;
+    font-family: "Jacques Francois Shadow";
+    font-size: 36pt;
+    text-align: center;
+
+
+}
+
+#lista_lesionados {
+    color: red;
+    background-color: black;
+    text-align: left;
+
+}
+
+#texto_inicial {
+    width: 600px;
+    height: 150px;
+    text-align: start;
+
+
+}
+
+#agradecimento {
+            width: 50vw;
+            height: 30vh; 
+
+
+}
+
+#Flamengo {
+    font-weight: bold;      
+    color: red;             
+    background-color: lightblue;
+
+}
