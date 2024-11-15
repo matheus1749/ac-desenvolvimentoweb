@@ -1,0 +1,40 @@
+Desenvolvimento Web
+Segundo período
+2024
+
+
+SQLiteBrowser: SQLite é uma base de dados independente que opera sem a necessidade de um servidor. Isso também é conhecido como uma base de dados embutida, o que significa que a engine da DB roda como parte do aplicativo.
+links -> https://sqlitebrowser.org/
+https://www.sqlite.org/features.html
+
+Conteúdos -> 8,
+
+
+Git/Github: git é um sistema de controle de versão de códigos. Gerencia ramificações feitas por diferentes pessoas de um time de modo a manter a ordem e integração de todas as partes. Ou seja, mesmo que várias pessoas estejam trabalhando em um programa ao mesmo tempo, ainda é possível controlar as mudanças para evitar erros.
+
+links -> https://git-scm.com/
+https://github.com/github
+https://pt.wikipedia.org/wiki/Git
+
+Conteúdos -> 4, 14, 11
+
+VScode: O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+links -> https://pt.wikipedia.org/wiki/Visual_Studio_Code
+https://code.visualstudio.com/
+
+Conteúdos -> 5, 6, 7, 9, 10, 13, 14
+
+Pyhton:  Python é uma linguagem de programação amplamente usada em aplicações da Web, desenvolvimento de software, ciência de dados e machine learning (ML). Os desenvolvedores usam o Python porque é eficiente e fácil de aprender e pode ser executada em muitas plataformas diferentes. O software Python pode ser baixado gratuitamente, integra-se bem a todos os tipos de sistema e agiliza o desenvolvimento.
+
+links -> https://www.python.org/
+https://aws.amazon.com/pt/what-is/python/
+
+Conteúdos -> 12
+
+Browser: Browser é um programa que nos permite navegar pela internet, encontrar páginas e exibir imagens, textos, vídeos e demais informações no desktop, celular, tablet e até na TV. São softwares como Microsoft Edge, Google Chrome, Safari, Firefox e tantos outros que surgiram com o passar dos anos.
+
+links -> https://tecnoblog.net/responde/o-que-e-um-browser/
+https://pt.wikipedia.org/wiki/Navegador_web
+
+Conteúdos -> 1, 2, 3
